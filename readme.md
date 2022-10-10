@@ -19,7 +19,14 @@
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/primeiro-projeto-nodejs-express-ejs/rodando.gif"
 />
 
-
+<h3>Tecnologias utilizadas</h3>
+<h4>Back end</h4>
+<ul>
+	<li>NodeJS</li>
+	<li>ExpressJS - Framework backend para NodeJS</li>
+	<li>EJS - Um pacote para gerar o Front a patir do Backend</li>
+	<li>Nodemon - pacote NodeJS para desenvolvimento</li>
+</ul>
 
 <h2>Autor</h2>
 <strong>Maicon Souza</strong>
