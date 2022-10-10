@@ -52,7 +52,7 @@ app.post('/salvar-post', (req, res)=>{
     db.push(obj)
 
     fs.writeFileSync('./store/db.json', JSON.stringify(db))
-    res.redirect('/cadastro-posts')
+    res.redirect('http://localhost:1992/cadastro-posts')
 })
 
 app.use((req, res) =>{
